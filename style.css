@@ -1,18 +1,22 @@
 /* 
     OBS: Os atributos abaixo comentado foram subtituido por outro ou deletado durante a aula.
 */
-div{
+div {
     background-color: #ff0000;
 }
-span{
+
+/* span {
+    background-color: #00ff00;
+} */
+
+/* div span {
+    background-color: #00ff00;
+} */
+
+.header span {
     background-color: #00ff00;
 }
-div span{
-    background-color: #00ff00;
-}
-.header span{
-    background-color: #00ff00;
-}
-p{
+
+p {
     background-color: #0000ff;
 }
